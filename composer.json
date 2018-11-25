@@ -1,0 +1,12 @@
+{
+    "name": "laracloset/laravel-twbs4-layout",
+    "description": "Twitter Bootstrap layout related Laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tsmsogn",
+            "email": "tsmsogn@gmail.com"
+        }
+    ],
+    "require": {}
+}
